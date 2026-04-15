@@ -1,9 +1,0 @@
-.countryDefault{
-    border : 5px solid salmon;
-    margin : 20px;
-    padding : 20px;
-    border-radius : 20px;
-}
-.conditionalBorder{
-    border : 5px solid rgb(247, 20, 4);
-}
